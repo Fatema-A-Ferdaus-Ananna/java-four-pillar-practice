@@ -4,6 +4,7 @@ public class Items {
     private int []item_id;
     private int []item_value;
 
+
     public int[] getItem_id() {
         return item_id;
     }

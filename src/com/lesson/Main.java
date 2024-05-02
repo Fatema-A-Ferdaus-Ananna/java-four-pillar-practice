@@ -13,11 +13,11 @@ public class Main {
 
         Collector coll = new Collector();
 
-        for(coll : ch.collector_list){
-                System.out.print("jghdfhfah");
-                System.out.print(coll.getCharacter_name()+"\t"+coll.getCharacter_id()
-                                +coll.getCharacter_level()+"\t"+coll.getCharacter_energy()
-                                +coll.getCharacter_hp()+"\t"+coll.getCharacter_xp());
-        }
+//        for(coll : ch.collector_list){
+//                System.out.print("jghdfhfah");
+//                System.out.print(coll.getCharacter_name()+"\t"+coll.getCharacter_id()
+//                                +coll.getCharacter_level()+"\t"+coll.getCharacter_energy()
+//                                +coll.getCharacter_hp()+"\t"+coll.getCharacter_xp());
+//        }
     }
 }

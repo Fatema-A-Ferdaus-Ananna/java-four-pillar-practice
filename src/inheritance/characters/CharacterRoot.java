@@ -19,6 +19,7 @@ public class CharacterRoot {
 
     public String getCharacter_id() {
         return character_id;
+
     }
 
     public void setCharacter_id(String character_id) {

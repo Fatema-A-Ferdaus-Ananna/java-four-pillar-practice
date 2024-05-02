@@ -5,6 +5,7 @@ import java.util.Random;
 
 public class ChoosingCharacter {
 
+
     public ArrayList<Collector> collector_list = new ArrayList<>();
 
     public void collector_insertion(){
