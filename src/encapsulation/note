@@ -1,0 +1,17 @@
+-> Encapsulation is also known as data hiding.
+-> Encapsulation in Java is a mechanism of wrapping the data (variables) and code acting on
+the data (methods) together as a single unit.
+-> the variables of a class will be hidden from other classes, and can be accessed only
+through the methods of their current class.
+
+
+To achieve encapsulation in Java −
+
+    1] Declare the variables of a class as private.
+    2] Provide public setter and getter methods to modify and view the variables values.
+
+Benefits of Encapsulation
+    The fields of a class can be made  -> i)  read-only or [getter]
+                                          ii) write-only   [setter]
+    A class can have total control over what is stored in its fields.
+

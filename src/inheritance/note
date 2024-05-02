@@ -1,0 +1,15 @@
+In inheritance, we can create a new class that is inherited by another class. So the new class we can refer to as a
+child/subclass and the class which already exists refer to a parent/superclass. One object acquires all the
+behaviors and properties of a parent object, and when you inherit a child class from a parent class you can reuse
+fields and methods of that class.
+
+Types of inheritance in java
+
+1) Single        [ superclass <- subclass]
+2) Multilevel    [ superclass <- subclass <- sub-subclass
+3) Hierarchical  [ superclass <- subclass1, superclass <- subclass2]
+
+In java programming, multiple and hybrid inheritance is supported through interface only.
+
+4) Multiple   [ superclass1,superclass2 <- subclass
+5) Hybrid     [ superclass <- subclass1,subclass2 <- hybridclass
